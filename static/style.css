@@ -1,9 +1,35 @@
 body{
-    background-color:antiquewhite;
+    background-color: rgb(192, 243, 196);
+}
+
+.cartao{
+    margin: auto;
+    width: 400px;
+    background-color: rgb(196, 196, 196);
+    border: 1px solid rgb(139, 139, 139);
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+label{
+    width: 100%
+}
+
+input{
+    width: 100%;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+button{
+    background-color:rgb(236, 234, 234);
+    border-radius: 5px;
+    width: 100%;
+    color: rgb(0, 0, 5);
+    padding: 7px;
 }
 h1{
-    color:blueviolet
-}
-p{
-    color: cadetblue;
+    text-aling: center
 }
